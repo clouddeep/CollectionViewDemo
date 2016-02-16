@@ -6,6 +6,9 @@
 //  Copyright © 2016年 Shou Cheng Tuan. All rights reserved.
 //
 
+
+//https://developer.apple.com/library/prerelease/ios/samplecode/CollectionViewTransition/
+
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
